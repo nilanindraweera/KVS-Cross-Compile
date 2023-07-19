@@ -1,0 +1,6 @@
+{
+	"name": "KVS Rebuild",
+	"build": {
+		"dockerfile": "Dockerfile"
+	}
+}
